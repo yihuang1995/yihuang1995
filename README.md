@@ -13,7 +13,7 @@
 - 💡 I am open to any AI/ML/DS related Discussions!
 - 🦾 Also a cyberpunk lover
 
-<img align="center" alt="GIF" src="./gifs/g.gif" width="640" height="344" />
+<img align="center" alt="GIF" src="./gifs/akira.gif" width="640" height="344" />
 
 ### Contact
 - 📫 You can reach out to me at yihuanghz95@gmail.com
