@@ -20,6 +20,9 @@
 - Generative AI (Stable Diffusion)
 - Recommendation System
 - Reinforcement Learning (PPO)
+- MLOps
+- A/B testing
+- Data ETL & pipeline
 
 ### Contact
 - 📫 You can reach out to me at yihuanghz95@gmail.com
