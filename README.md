@@ -10,7 +10,7 @@
 ### Background
 - 💻 I'm currently a full stack data scientist in a mobile gaming company called Pocket Gems💎!
 - 🌟 I have 6 years experience in analytics and modeling, 3 years of work experience in Consulting, Machine Learning Algorithm and Data Scientice.
-- 💡 I am open to any AI/ML/DS related Discussions!
+- 💡 I am open to any AI/ML/DS related discussions!
 - 🦾 Also a cyberpunk lover
 
 <img align="center" alt="GIF" src="./gif/akira.gif" width="640" height="344" />
