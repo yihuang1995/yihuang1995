@@ -15,6 +15,9 @@
 
 <img align="center" alt="GIF" src="./gif/akira.gif" width="640" height="344" />
 
+### Kaggle
+- (Time Series Prediction) GoDaddy - Microbusiness Density Forecasting: 24/3547 (Top 0.6%, Silver medal🥈)
+
 ### Skills & Experiences
 - Machine Learning & Deep Learning
 - Generative AI (Stable Diffusion)
