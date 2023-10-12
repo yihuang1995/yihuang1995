@@ -17,6 +17,7 @@
 
 ### Kaggle
 - (Time Series Prediction) GoDaddy - Microbusiness Density Forecasting: 21/3547 (Top 0.6%, Silver medal🥈)
+- (NLP) CommonLit - Evaluate Student Summaries: 69/2106 (Top 4%, Silver medal🥈)
 
 ### Skills & Experiences
 - Machine Learning & Deep Learning
