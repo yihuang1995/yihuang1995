@@ -8,8 +8,8 @@
 ### [Contact me via LinkedIn][linkedin]
 
 ### Background
-- 💻 I'm currently a full stack data scientist in a mobile gaming company called Pocket Gems💎!
-- 🌟 I have 6 years experience in analytics and modeling, 3 years of work experience in Consulting, Machine Learning Algorithm and Data Scientice.
+- 💻 I'm currently a full stack data scientist at TikTok ♪!
+- 🌟 I have 8 years experience in analytics and modeling.
 - 💡 I am open to any AI/ML/DS related discussions!
 - 🦾 Also a cyberpunk lover
 
@@ -21,7 +21,8 @@
 
 ### Skills & Experiences
 - Machine Learning & Deep Learning
-- Generative AI (Stable Diffusion)
+- LLM & NLP
+- Multi-model
 - Recommendation System
 - Reinforcement Learning (PPO)
 - MLOps
