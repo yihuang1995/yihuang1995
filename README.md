@@ -34,8 +34,6 @@
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yihuang1995&layout=compact)
-
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yihuang1995)
 
