@@ -10,8 +10,9 @@
 ### Background
 - 💻 I'm currently a full stack data scientist at TikTok ♪!
 - 🌟 I have 8 years experience in analytics and modeling.
-- 💡 I am open to any AI/ML/DS related discussions!
+- 💡 Open to any AI/ML/DS related discussions!
 - 🦾 Also a cyberpunk lover
+- 🧠 Diving into LLMs…
 
 <img align="center" alt="GIF" src="./gif/akira.gif" width="640" height="344" />
 
